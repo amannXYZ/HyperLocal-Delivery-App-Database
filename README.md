@@ -38,3 +38,7 @@ HyperLocal-Delivery-App-Database/
 └── ER_Diagram.pdf                                       
 
 
+#Tech Stack
+1. Database: Microsoft SQL Server
+2. Language: T-SQL
+3. Tools: SQL Server Management Studio (SSMS)
