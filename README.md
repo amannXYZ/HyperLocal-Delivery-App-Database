@@ -1,4 +1,4 @@
-🛵 HyperLocal Delivery App — Database Design
+HyperLocal Delivery App — Database Design
 
 A relational database system designed to power a hyperlocal delivery application. Built with T-SQL (Microsoft SQL Server), this project covers the full database lifecycle — from schema design and data seeding to views, triggers, stored procedures, and performance optimization.
 
